@@ -1,4 +1,4 @@
-package belajar.jenkins
+package belajar.jenkins;
 
 class Output{
     static def hello(String name){
